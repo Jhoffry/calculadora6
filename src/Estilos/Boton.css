@@ -1,0 +1,17 @@
+.boton{
+  border: 3px solid black;
+  border-radius: 20px;
+  display: flex;
+  height: 100px;
+  flex: 1;
+  margin: 3px;
+  user-select: none;
+  cursor: pointer;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+}
+
+.boton:hover{
+  background-color: rgb(238, 67, 67);
+}
